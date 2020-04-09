@@ -1,0 +1,20 @@
+1) git config --global user.email "vertical.sudhir@gmail.com"
+
+2) git config --global user.name "Sudhir Atkire"
+
+3) git init 
+
+4) git status
+
+5) git add [file name] || -A
+
+6) git status
+
+7) git commit -m "msg"
+
+8) git remote add origin "repo name"
+
+9) git push origin master
+
+10) git clone "repo name"
+
